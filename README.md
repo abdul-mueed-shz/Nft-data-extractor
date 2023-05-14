@@ -24,3 +24,17 @@ Before running the script, ensure you have the following dependencies installed:
 
 1. Clone the repository:
 
+
+2. Install the required dependencies:
+
+
+3. Update the `initialize_driver()` function in `scraper.py` with the path to your Chrome WebDriver.
+
+4. Customize the script by modifying the scraping functions in `scraper.py` to suit your needs.
+
+5. Run the script:
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
